@@ -78,3 +78,9 @@ Dengan langkah-langkah ini, kamu bisa menjalankan codingan Laravel di lingkungan
 
 # Home View Buyer
 ![alt text](./tampilanballers/Picture1.png)
+
+# Home View Seller
+![alt text](./tampilanballers/Picture3.png)
+
+# Detail Basketball Court
+![alt text](./tampilanballers/Picture4.png)
