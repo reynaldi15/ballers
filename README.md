@@ -75,3 +75,6 @@ php artisan config:cache
 php artisan route:cache
 php artisan view:cache
 Dengan langkah-langkah ini, kamu bisa menjalankan codingan Laravel di lingkungan lokal. Jika ada langkah spesifik yang perlu dijelaskan lebih lanjut, beri tahu saya!
+
+# Home View Buyer
+![alt text](./tampilanballers/Picture1.png)
